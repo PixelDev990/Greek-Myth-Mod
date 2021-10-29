@@ -6,7 +6,7 @@ A Minecraft mod for a YouTubers 100 day Minecraft series
 ## Whats In this mod?
 
 ## Mobs-
-##Hostile-
+## Hostile-
 Medusa: spawn in cave full of stone satue
 
 Minotaur: spawn in a maze below ground 
